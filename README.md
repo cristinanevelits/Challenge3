@@ -1,22 +1,26 @@
 # Challenge3
 Challenge 3, Week 3, Berkeley Bootcamp.
 
-## Description: 
+## Description:
 
-- refactored code in html and css focusing on accessibility.
-- for html: changed the title, created new semantic elements, made sure elements follow logical structure, added alt attributes to img, made sure heading elements are sequential. 
-- for css: refactored the css code after changing the html in order for the web page to look identical to before.
--added relevant comments describing every step of the process I did within this project as well as all the changes made for the page to look the same as the mockup.
+- Created a password generator with the following functionality:
+- - Users can click a button to generate a new, secure password.
+- - Users are prompted to select password criteria, including length and character types.
+- - Length should be between 8 and 128 characters.
+- - Users can choose to include lowercase, uppercase, numeric, and special characters.
+- - Input is validated, and at least one character type must be selected.
+- - A password is generated based on the selected criteria.
+- - The generated password can be displayed in an alert or written to the page.
 
 ## Screenshots:
 
-![Screenshot#1]()
-![Screenshot#2]()
-![Screenshot#3]()
+![Screenshot#1](https://github.com/cristinanevelits/Challenge3/blob/main/Develop/assets/images/Screenshot%202023-10-25%20at%208.31.00%20PM.png)
+![Screenshot#2](https://github.com/cristinanevelits/Challenge3/blob/main/Develop/assets/images/Screenshot%202023-10-25%20at%208.31.37%20PM.png)
+![Screenshot#3](https://github.com/cristinanevelits/Challenge3/blob/main/Develop/assets/images/Screenshot%202023-10-25%20at%208.31.46%20PM.png)
 
-## Link to deployed website: 
+## Link to deployed website: https://cristinanevelits.github.io/Challenge3/Develop
 
-## GitHub Repo link: 
+## GitHub Repo link: https://github.com/cristinanevelits/Challenge3
 
 ## Credits
 
